@@ -4,20 +4,20 @@
 <br>
 <br>
 
-## Fake Online REST server for teams
+Fake Online REST server for teams
 
 <br>
 
-## Create a JSON file on GitHub
+Create a JSON file on GitHub
 
 <br>
 <br>
 
 ## How to
 
-1 Create a repository on GitHub (<your-username>/<your-repo>)
-2 Create a db.json file
-3 Visit https://my-json-server.typicode.com/<your-username>/<your-repo> to access your server
++ Create a repository on GitHub (<your-username>/<your-repo>)
++ Create a db.json file
++ Visit https://my-json-server.typicode.com/<your-username>/<your-repo> to access your server
 
 <br>
 
