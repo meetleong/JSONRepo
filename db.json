@@ -4,7 +4,7 @@
         "content":"1. 优化了阅读体验；\n2. 上线了 hyman 的课程；\n3. 修复了一些已知问题。",
         "url":"http://59.110.162.30/v450_imooc_updater.apk",
         "versionCode":450,
-        "isForceUpdate":true
+        "isForceUpdate":true,
         "result":{
             "code":1
         }
