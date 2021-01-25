@@ -1,4 +1,5 @@
 {
+    "schema":{
     "result": {
         "user": {
             "family": null,
@@ -34,4 +35,5 @@
     },
     "ts": 1611545177012,
     "status": 1
+}
 }
