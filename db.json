@@ -1,12 +1,37 @@
 {
-    "schema":{
-        "title":"4.5.0更新啦！",
-        "content":"1. 优化了阅读体验；\n2. 上线了 hyman 的课程；\n3. 修复了一些已知问题。",
-        "url":"http://59.110.162.30/v450_imooc_updater.apk",
-        "versionCode":450,
-        "isForceUpdate":true,
-        "result":{
-            "code":1
+    "result": {
+        "user": {
+            "family": null,
+            "ismdf": 0,
+            "friendship": 0,
+            "phone": "17169662882",
+            "isnew": 0,
+            "roomid": 0,
+            "vip": 0,
+            "realvip": 0,
+            "userID": 3050168,
+            "level": 6,
+            "ban": 0,
+            "age": 24,
+            "userNo": 3050168,
+            "nick": "蓬蒿人",
+            "avatar": "https://cdn.xigua.hfyinyi.cn/local/avatar/4b71bd987a7c2a80b7a3dc499800d51a.jpeg",
+            "gender": 0,
+            "birthday": "1996-10-21",
+            "signTime": 1610619540000,
+            "userStatus": 1,
+            "hobbies": "",
+            "city": "",
+            "hometown": "",
+            "followCount": 1,
+            "fansCount": 0,
+            "friendCount": 0,
+            "growth": 113,
+            "nickColor": "",
+            "recharges": 0,
+            "signature": ""
         }
-    }
+    },
+    "ts": 1611545177012,
+    "status": 1
 }
