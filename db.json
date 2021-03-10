@@ -1,39 +1,142 @@
 {
     "schema":{
-    "result": {
-        "user": {
-            "family": null,
-            "ismdf": 0,
-            "friendship": 0,
-            "phone": "17169662882",
-            "isnew": 0,
-            "roomid": 0,
-            "vip": 0,
-            "realvip": 0,
-            "userID": 3050168,
-            "level": 6,
-            "ban": 0,
-            "age": 24,
-            "userNo": 3050168,
-            "nick": "蓬蒿人",
-            "avatar": "https://cdn.xigua.hfyinyi.cn/local/avatar/4b71bd987a7c2a80b7a3dc499800d51a.jpeg",
-            "gender": 0,
-            "birthday": "1996-10-21",
-            "signTime": 1610619540000,
-            "userStatus": 1,
-            "hobbies": "",
-            "city": "",
-            "hometown": "",
-            "followCount": 1,
-            "fansCount": 0,
-            "friendCount": 0,
-            "growth": 113,
-            "nickColor": "",
-            "recharges": 0,
-            "signature": ""
-        }
+        {
+  "result" : {
+    "myRoom" : {
+      "isRecommended" : 0,
+      "distance" : 0,
+      "locked" : 0,
+      "microphoneCount" : 0,
+      "tagname" : null,
+      "roomSorship" : null,
+      "title" : null,
+      "roomID" : 0,
+      "topic" : null,
+      "backurl" : null,
+      "onlineCount" : 0,
+      "city" : null,
+      "img" : null
     },
-    "ts": 1611545177012,
-    "status": 1
+    "rooms" : {
+      "more" : 0,
+      "list" : [ {
+        "isRecommended" : 1,
+        "distance" : 0,
+        "locked" : 0,
+        "microphoneCount" : 0,
+        "tagname" : "游戏",
+        "roomSorship" : "",
+        "title" : "白白白白2",
+        "roomID" : 3049954,
+        "topic" : "",
+        "backurl" : "https://cdn.xigua.hfyinyi.cn/local/avatar/0fe67eab787b54f6d94edc29c10286e0.jpeg",
+        "onlineCount" : 51,
+        "city" : "广州市",
+        "img" : "http://thirdqq.qlogo.cn/g?b=oidb&k=7IbPOFgWfbXqbYYrwic1oVQ&s=100&t=1553332206"
+      }, {
+        "isRecommended" : 1,
+        "distance" : 0,
+        "locked" : 1,
+        "microphoneCount" : 0,
+        "tagname" : "虚拟恋人",
+        "roomSorship" : "",
+        "title" : "manual",
+        "roomID" : 3050000,
+        "topic" : "我的房间2",
+        "backurl" : "",
+        "onlineCount" : 67,
+        "city" : "火星",
+        "img" : "https://cdn.xigua.hfyinyi.cn/local/avatar/76a5b60608f755d8f9dcf9e18494dc9f.jpeg"
+      }, {
+        "isRecommended" : 1,
+        "distance" : 0,
+        "locked" : 0,
+        "microphoneCount" : 0,
+        "tagname" : "游戏",
+        "roomSorship" : "",
+        "title" : "白白白白3",
+        "roomID" : 3049954,
+        "topic" : "",
+        "backurl" : "https://cdn.xigua.hfyinyi.cn/local/avatar/0fe67eab787b54f6d94edc29c10286e0.jpeg",
+        "onlineCount" : 51,
+        "city" : "广州市",
+        "img" : "http://thirdqq.qlogo.cn/g?b=oidb&k=7IbPOFgWfbXqbYYrwic1oVQ&s=100&t=1553332206"
+      }, {
+        "isRecommended" : 1,
+        "distance" : 0,
+        "locked" : 1,
+        "microphoneCount" : 0,
+        "tagname" : "虚拟恋人",
+        "roomSorship" : "",
+        "title" : "manual",
+        "roomID" : 3050000,
+        "topic" : "我的房间4",
+        "backurl" : "",
+        "onlineCount" : 67,
+        "city" : "火星",
+        "img" : "https://cdn.xigua.hfyinyi.cn/local/avatar/76a5b60608f755d8f9dcf9e18494dc9f.jpeg"
+      } , {
+        "isRecommended" : 1,
+        "distance" : 0,
+        "locked" : 0,
+        "microphoneCount" : 0,
+        "tagname" : "游戏",
+        "roomSorship" : "",
+        "title" : "白白白白5",
+        "roomID" : 3049954,
+        "topic" : "",
+        "backurl" : "https://cdn.xigua.hfyinyi.cn/local/avatar/0fe67eab787b54f6d94edc29c10286e0.jpeg",
+        "onlineCount" : 51,
+        "city" : "广州市",
+        "img" : "http://thirdqq.qlogo.cn/g?b=oidb&k=7IbPOFgWfbXqbYYrwic1oVQ&s=100&t=1553332206"
+      }, {
+        "isRecommended" : 1,
+        "distance" : 0,
+        "locked" : 1,
+        "microphoneCount" : 0,
+        "tagname" : "虚拟恋人",
+        "roomSorship" : "",
+        "title" : "manual",
+        "roomID" : 3050000,
+        "topic" : "我的房间6",
+        "backurl" : "",
+        "onlineCount" : 67,
+        "city" : "火星",
+        "img" : "https://cdn.xigua.hfyinyi.cn/local/avatar/76a5b60608f755d8f9dcf9e18494dc9f.jpeg"
+      } , {
+        "isRecommended" : 1,
+        "distance" : 0,
+        "locked" : 0,
+        "microphoneCount" : 0,
+        "tagname" : "游戏",
+        "roomSorship" : "",
+        "title" : "白白白白7",
+        "roomID" : 3049954,
+        "topic" : "",
+        "backurl" : "https://cdn.xigua.hfyinyi.cn/local/avatar/0fe67eab787b54f6d94edc29c10286e0.jpeg",
+        "onlineCount" : 51,
+        "city" : "广州市",
+        "img" : "http://thirdqq.qlogo.cn/g?b=oidb&k=7IbPOFgWfbXqbYYrwic1oVQ&s=100&t=1553332206"
+      }, {
+        "isRecommended" : 1,
+        "distance" : 0,
+        "locked" : 1,
+        "microphoneCount" : 0,
+        "tagname" : "虚拟恋人",
+        "roomSorship" : "",
+        "title" : "manual",
+        "roomID" : 3050000,
+        "topic" : "我的房间8",
+        "backurl" : "",
+        "onlineCount" : 67,
+        "city" : "火星",
+        "img" : "https://cdn.xigua.hfyinyi.cn/local/avatar/76a5b60608f755d8f9dcf9e18494dc9f.jpeg"
+      } ],
+      "start" : ""
+    }
+  },
+  "ts" : 1615345832564,
+  "status" : 1
+}
 }
 }
