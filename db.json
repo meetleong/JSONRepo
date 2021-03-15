@@ -1,12 +1,10 @@
 {
     "schema":{
-        {
-            "result" : {
+        "result" : {
             "sucstatus" : 1,
             "inviteRoomId" : 3050000
-        },
+            },
         "ts" : 1615806090031,
         "status" : 1
-}
-}
+    }
 }
